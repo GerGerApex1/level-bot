@@ -1,0 +1,17 @@
+{
+    "events": {
+        "giveXp": true,
+        "event": true
+    },
+    "messageCommands": {
+        "level": true
+    },
+    "xpSystem": {
+        "defaultXp": 0,
+        "defaultLevel": 1,
+        "xpPerMessage": {
+            "minXp": 5, 
+            "maxXp": 15
+        }
+    }
+}
